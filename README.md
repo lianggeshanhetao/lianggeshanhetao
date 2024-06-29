@@ -2,18 +2,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 April 2024 - To: 26 June 2024
+From: 11 April 2024 - To: 27 June 2024
 
-Total Time: 206 hrs 28 mins
+Total Time: 207 hrs 59 mins
 
-Java              114 hrs 30 mins ##############-----------   55.45 %
-Vue.js            33 hrs 35 mins  ####---------------------   16.27 %
-XML               22 hrs 13 mins  ###----------------------   10.76 %
-SQL               12 hrs 39 mins  ##-----------------------   06.13 %
-YAML              7 hrs 16 mins   #------------------------   03.52 %
-JavaScript        6 hrs 19 mins   #------------------------   03.07 %
-Other             3 hrs 57 mins   -------------------------   01.92 %
-textmate          3 hrs 46 mins   -------------------------   01.83 %
+Java              114 hrs 41 mins ##############-----------   55.14 %
+Vue.js            33 hrs 39 mins  ####---------------------   16.18 %
+XML               22 hrs 13 mins  ###----------------------   10.69 %
+SQL               13 hrs 33 mins  ##-----------------------   06.52 %
+YAML              7 hrs 21 mins   #------------------------   03.53 %
+JavaScript        6 hrs 20 mins   #------------------------   03.05 %
+Other             4 hrs 15 mins   #------------------------   02.04 %
+textmate          3 hrs 46 mins   -------------------------   01.81 %
 JSON              1 hr 9 mins     -------------------------   00.56 %
 GitIgnore file    13 mins         -------------------------   00.11 %
 Properties        13 mins         -------------------------   00.11 %
