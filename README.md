@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 April 2024 - To: 05 July 2024
+From: 11 April 2024 - To: 06 July 2024
 
 Total Time: 224 hrs 4 mins
 
